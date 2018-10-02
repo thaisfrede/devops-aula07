@@ -9,3 +9,8 @@
 
 * A função jogar(jogador, linha, coluna) irá posicionar o **jogador** ("X" ou "O") na posicão definida por **linha** e **coluna**.
 
+
+##Verificação da validade das jogadas
+*Foram realizadas mudanças no módulo **Jogovelha.py** 
+*A mudança consiste no acréscimo da string "X" e "O" na função jogar (jogador, linha, coluna)
+*E de acordo com a regra do jogo da velha a string "X" ganha o jogo.
